@@ -2,7 +2,9 @@
 
 Bookmark this link:
 
-   javascript:(function()%7B cb %3D function()%7B create_spritz()%3B%7D%3B var script%3Ddocument.createElement(%27SCRIPT%27)%3Bscript.src%3D%27https://msbarry.github.io/OpenSpritz/spritz.js%3Fcallback%3Dcb%3Fcallback%3Dcb%27%3B script.onload%3Dcb%3B document.body.appendChild(script)%3B%7D)()%3B
+<pre>
+javascript:(function()%7B cb %3D function()%7B create_spritz()%3B%7D%3B var script%3Ddocument.createElement(%27SCRIPT%27)%3Bscript.src%3D%27https://msbarry.github.io/OpenSpritz/spritz.js%3Fcallback%3Dcb%3Fcallback%3Dcb%27%3B script.onload%3Dcb%3B document.body.appendChild(script)%3B%7D)()%3B
+</pre>
 
 # OpenSpritz
 
