@@ -4,7 +4,7 @@ Bookmark this link:
 javascript:(function(){ cb = function(){ create_spritz();}; var script=document.createElement('SCRIPT');script.src='https://msbarry.github.io/OpenSpritz/spritz.js?callback=cb?callback=cb'; script.onload=cb; document.body.appendChild(script);})();
 </pre>
 
-Or drag [this](javascript:(function(){ cb = function(){ create_spritz();}; var script=document.createElement('SCRIPT');script.src='https://msbarry.github.io/OpenSpritz/spritz.js?callback=cb?callback=cb'; script.onload=cb; document.body.appendChild(script);})();) to your bookmarks
+Or drag <a href="javascript:(function(){ cb = function(){ create_spritz();}; var script=document.createElement('SCRIPT');script.src='https://msbarry.github.io/OpenSpritz/spritz.js?callback=cb?callback=cb'; script.onload=cb; document.body.appendChild(script);})();">this</a> to your bookmarks
 
 # OpenSpritz
 
