@@ -1,5 +1,3 @@
-![OpenSpritz](http://i.imgur.com/LOtmyf9.gif)
-
 Bookmark this link:
 
 <pre>
