@@ -9,7 +9,7 @@ body{
     padding-bottom: 12px;
     margin-bottom: 12px;
     background-color: #ffffff;
-    min-height: 166px;
+    min-height: 100px;
     position: fixed;
     top: 0;
     left: 0;
@@ -22,17 +22,17 @@ body{
 }
 
 #spritz_container{
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
     background-color: #ffffff;
-    line-height: 43px;
+    line-height: 24px;
 
 }
 
 #spritz_result{
     text-align: center;
-    font-size: 32px;
+    font-size: 24px;
     font-family: 'Droid Sans Mono', sans-serif;
     padding-top: 9px;
     padding-bottom: 9px;
@@ -41,14 +41,14 @@ body{
 
 #guide_top{
     text-align: center;
-    font-size: 32px;
+    font-size: 24px;
     font-family: 'Droid Sans Mono', sans-serif;
     color: #DDDDDD;
 }
 
 #guide_bottom{
     text-align: center;
-    font-size: 32px;
+    font-size: 24px;
     font-family: 'Droid Sans Mono', sans-serif;
     color: #DDDDDD;
 }
